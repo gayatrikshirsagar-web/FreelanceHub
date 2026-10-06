@@ -31,3 +31,16 @@ build/
 
 ### VS Code ###
 .vscode/
+# Spring Boot local configuration
+**/src/main/resources/application.properties
+
+# React
+**/node_modules/
+
+# Java
+**/target/
+
+# Eclipse
+**/.classpath
+**/.project
+**/.settings/
